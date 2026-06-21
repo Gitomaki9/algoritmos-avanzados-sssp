@@ -1,0 +1,27 @@
+# Datasets (pesados)
+*.txt
+*.gz
+*.zip
+
+# Archivos de caché de bmssp-python
+.cache/
+*.msgpack
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos grandes en general
+*.log
+*.tmp
